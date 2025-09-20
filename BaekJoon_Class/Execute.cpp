@@ -5,9 +5,10 @@ using namespace std;
 
 
 int main(void) {
-	_2475();
+
+
+
 
 	return 0;
 }
-
 

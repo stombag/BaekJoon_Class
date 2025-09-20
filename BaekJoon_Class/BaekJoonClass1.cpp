@@ -3,8 +3,7 @@
 
 using namespace std;
 
-
-
+// 검증수
 void _2475() {
 	int a, b, c, d, e;
 
@@ -21,8 +20,18 @@ void _2475() {
 	cout << result << endl;
 	return;
 }
+
+// N찍기 
 void _2471() {
 
-	 
-	return;
+
+	int Num;
+
+	//scanf("%d", &Num);
+	
+	for (int i = 1; i <= Num; i++) {
+
+		printf("%d\n", i);
+	}
 }
+
