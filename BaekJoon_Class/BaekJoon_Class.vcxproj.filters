@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Class1">
+      <UniqueIdentifier>{beee264b-72ee-4977-ac63-053638b63278}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2475.cpp">
+      <Filter>Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="Execute.cpp" />
+  </ItemGroup>
+</Project>
