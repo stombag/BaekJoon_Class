@@ -1,7 +1,11 @@
-#include <iostream>
-using namespace		std;
+#include<iostream>
+#include "BaekJoonClass1.h"
 
-static void _2475() {
+using namespace std;
+
+
+
+void _2475() {
 	int a, b, c, d, e;
 
 	cin >> a >> b >> c >> d >> e;
@@ -15,5 +19,10 @@ static void _2475() {
 
 // 0,4,2,5,6, == 1
 	cout << result << endl;
+	return;
+}
+void _2471() {
+
+	 
 	return;
 }

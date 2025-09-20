@@ -1,6 +1,8 @@
 #include<iostream>
-#include "2475.cpp"
+#include"BaekJoonClass1.h"
 using namespace std;
+
+
 
 int main(void) {
 	_2475();
