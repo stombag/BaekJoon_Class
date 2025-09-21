@@ -4,10 +4,9 @@ using namespace std;
 
 
 
-int main(void) {
+int main() {
 
-
-
+	_11720();
 
 	return 0;
 }
